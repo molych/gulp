@@ -1,0 +1,28 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "del": "^5.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-stylint": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "stylelint": "^13.1.0",
+    "stylelint-config-recess-order": "^2.0.3",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Mochalov",
+  "license": "ISC"
+}
